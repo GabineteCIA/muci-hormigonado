@@ -1,0 +1,21 @@
+{
+  "sector": "Losa techo P1 · Bloque E2",
+  "fecha": "2026-09-17",
+  "metaM3": 260,
+  "duracionHoras": 7,
+  "personalPrevisto": 60,
+  "planConfirmado": true,
+  "inicioPrevisto": "09:00",
+  "inicioReal": "2026-09-17T09:40",
+  "corte": "2026-09-17T14:00",
+  "cierreReal": "",
+  "m3": 233,
+  "camiones": 26,
+  "personal": 75,
+  "armaduras": "En control",
+  "temperatura": "En control",
+  "calidad": "En control",
+  "puntales": "Verificado",
+  "observaciones": "Durante la jornada no se registraron inconvenientes, incidentes ni accidentes. Los trabajos se desarrollan con normalidad y todas las cuadrillas continúan operativas, manteniendo sus actividades sin interrupciones relevantes.",
+  "mediaUrl": "https://drive.google.com/drive/folders/11kvNUsYFSrn432zCQzFsVV2R68DlJ4DE?usp=drive_link"
+}
